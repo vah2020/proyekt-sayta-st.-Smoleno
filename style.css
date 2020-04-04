@@ -1,0 +1,11 @@
+h1 {
+    color: red;
+}
+* {
+    background-color: greenyellow ;
+    text-align: center; /* Выравнивание по центру */
+  }
+
+  table {
+    margin: auto; /* Выравниваем таблицу по центру */
+   } 
