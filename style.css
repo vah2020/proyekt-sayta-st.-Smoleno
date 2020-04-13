@@ -8,4 +8,8 @@ h1 {
 
   table {
     margin: auto; /* Выравниваем таблицу по центру */
-   } 
+   }
+img {
+  border: 3px solid #00af64;
+  border-radius: 10px
+}    
